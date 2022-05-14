@@ -1,1 +1,1 @@
-MetaTrader5--system
+$pip install MetaTrader5
